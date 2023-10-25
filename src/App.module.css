@@ -3,13 +3,16 @@
     background-color: #dbd8d8;
     min-height: 100vh;
 }
+.Main {
+    padding-top: 120px;
+  }
 
 * {
     box-sizing: border-box;
   }
   
   a {
-    color: #555555;
+    color: #030303;
     transition: color ease-in-out 0.3s;
   }
   
@@ -18,7 +21,7 @@
   }
   
   a:hover i {
-    color: #2c2e35;
+    color: #2142b2;
     transition: color ease-in-out 0.3s;
   }
   
